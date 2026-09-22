@@ -1,0 +1,23 @@
+# Real data and credentials - NEVER commit.
+data/outreach.xlsx
+data/prospects_input.csv
+data/prospects_input.xlsx
+config/fact_sheet.json
+config/credentials.json
+config/token.json
+.env
+
+# Keep the fake samples.
+!data/prospects_input.example.csv
+!config/fact_sheet.example.json
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.ruff_cache/
+*.xlsx
+!data/*.example.xlsx
+brag_*.mp4
+brag-output/

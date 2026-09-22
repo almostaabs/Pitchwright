@@ -1,0 +1,26 @@
+{
+  "_comment": "PLACEHOLDER DATA. Copy to config/fact_sheet.json and replace every value with your real, verifiable numbers. Anything left fake here will be pitched as fact.",
+  "organization": "Example Student Tech Collective",
+  "event_name": "Placeholder Tech Fest 2099",
+  "event_dates": "the 1st and 2nd of Nevuary 2099",
+  "event_location": "Somewhere Hall, Exampleville",
+  "sender_name": "Sample Sender",
+  "sender_role": "Sponsorship Lead",
+  "reply_to": "notreal@example.com",
+  "deck_link": "https://example.com/not-a-real-deck.pdf",
+  "the_ask": "A 00,000 placeholder-currency title sponsorship, or an in-kind equivalent.",
+  "deliverables": [
+    "Logo on the placeholder stage backdrop",
+    "A 00-minute speaking slot on day one",
+    "A booth in the placeholder exhibition area",
+    "Named mention in all placeholder event emails"
+  ],
+  "audience": {
+    "expected_attendees": 0,
+    "colleges_represented": 0,
+    "mailing_list_size": 0,
+    "note": "Every number here is a zero on purpose. Replace with real figures you can prove, or delete the key entirely - the agent is forbidden from inventing what is missing."
+  },
+  "past_sponsors": [],
+  "tone": "Plain, direct, no hype. Short paragraphs."
+}

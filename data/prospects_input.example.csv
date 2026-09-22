@@ -1,0 +1,5 @@
+company,contact_name,contact_email,website,notes
+Acme Robotics,Dana Placeholder,notreal@example.com,https://example.com,Obviously fake test row - nobody real is at this address
+Globex Cloudworks,Sam Notaperson,alsonotreal@example.com,https://example.org,Second fake row - website is a reachable placeholder domain
+Initech Widgets,Pat Fictional,thirdfake@example.net,,No website on purpose - exercises the notes fallback path
+Umbrella Analytics,Alex Imaginary,fourthfake@example.com,https://this-domain-does-not-resolve.invalid,Unreachable site on purpose - exercises the no-data-found path
